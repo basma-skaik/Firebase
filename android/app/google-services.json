@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514999848554",
+    "project_id": "react-native-firebase-cfca9",
+    "storage_bucket": "react-native-firebase-cfca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514999848554:android:e9ab88c9570332a67a0413",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514999848554-j0evjjjtqibvbc35olum214a57d8t1c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6yc9zoWUtrenQhgt531C2A9uVAspKQRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514999848554-j0evjjjtqibvbc35olum214a57d8t1c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
